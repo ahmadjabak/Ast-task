@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    
+    justify-content: space-evenly;
+    align-items: center;
+    height:15rem;
+}
+.flex_header{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
